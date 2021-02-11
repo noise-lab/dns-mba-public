@@ -808,7 +808,6 @@ adserver-us.adtech.advertising.com
 d5.sina.com.cn
 member.pixnet.cc
 rtb.gumgum.com
-myteenmovies.net
 tps11006.doubleverify.com
 cdn.petametrics.com
 captcha.roblox.com
